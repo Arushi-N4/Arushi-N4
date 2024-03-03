@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/arushi-nirala-aa714b295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arushi-nirala-aa714b295" height="30" width="40" /></a>
 <a href="https://kaggle.com/arushin4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arushin4" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arushin2t7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arushin2t7y" height="30" width="40" /></a>
 </p>
