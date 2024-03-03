@@ -9,4 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-N4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/arushin4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arushin4" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arushin2t7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arushin2t7y" height="30" width="40" /></a>
+</p>
