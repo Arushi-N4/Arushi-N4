@@ -12,7 +12,8 @@
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-N4&layout=compact&theme=blueberry" alt=Arushi-N4 />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arushi-N4&theme=github" height="180em" />
-## Connect with me
+
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/arushi-nirala-aa714b295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arushi-nirala-aa714b295" height="30" width="40" /></a>
 <a href="https://kaggle.com/arushin4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arushin4" height="30" width="40" /></a>
