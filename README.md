@@ -21,7 +21,4 @@
 </p>
 
 
- <marquee class="marq"
-                 bgcolor="Green"
-                 direction="left"
-                 loop="">
+<marquee direction="left" loop="">A computer science portal for g</marquee>
