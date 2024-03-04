@@ -21,4 +21,3 @@
 </p>
 
 
-<marquee direction="left" loop="">A computer science portal for g</marquee>
