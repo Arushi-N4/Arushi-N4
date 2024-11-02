@@ -14,7 +14,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-N4&layout=compact&theme=blueberry" alt=Arushi-N4 />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arushi-N4&theme=github" height="180em" />
 
-[![@arushin4's Holopin board](https://holopin.io/api/user/board?user=arushin4)](https://holopin.io/@arushin4)
+[![An image of @arushin4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arushin4)](https://holopin.io/@arushin4)
 
 ## 📊 LeetCode Statistics:
 
