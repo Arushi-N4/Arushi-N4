@@ -11,8 +11,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   </a>
 </div>
 
@@ -24,10 +22,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arushi-N4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 [![An image of @arushin4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arushin4)](https://holopin.io/@arushin4)
-
-## 📊 LeetCode Statistics:
-
-<!--![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=ArushiN4&theme=dark)-->
 
 ## Connect with me:
 <p align="left">
