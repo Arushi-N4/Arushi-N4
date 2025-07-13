@@ -1,5 +1,5 @@
-
-
+## Check Resume here:
+https://drive.google.com/file/d/1au80m0viDzvwTNmMGuaad-4S1K3Q4dPj/view?usp=sharing
 
 
 <b>GSSOC(24) Badges 🪶</b><br>
